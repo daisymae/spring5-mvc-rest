@@ -1,10 +1,10 @@
-package guru.springfamework.bootstrap;
+package guru.springframework.bootstrap;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-import guru.springfamework.domain.Category;
-import guru.springfamework.repositories.CategoryRepository;
+import guru.springframework.domain.Category;
+import guru.springframework.repositories.CategoryRepository;
 
 /* CommandLineRunner is specific to SpringBoot. Allows us to run application code on startup.
  * Earlier in the course there was an example of events that was not specific to SpringBoot.

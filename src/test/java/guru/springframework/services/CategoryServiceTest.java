@@ -1,11 +1,11 @@
 package guru.springframework.services;
 
-import guru.springfamework.api.v1.mapper.CategoryMapper;
-import guru.springfamework.api.v1.model.CategoryDTO;
-import guru.springfamework.domain.Category;
-import guru.springfamework.repositories.CategoryRepository;
-import guru.springfamework.services.CategoryService;
-import guru.springfamework.services.CategoryServiceImpl;
+import guru.springframework.api.v1.mapper.CategoryMapper;
+import guru.springframework.api.v1.model.CategoryDTO;
+import guru.springframework.domain.Category;
+import guru.springframework.repositories.CategoryRepository;
+import guru.springframework.services.CategoryService;
+import guru.springframework.services.CategoryServiceImpl;
 
 import org.junit.Before;
 import org.junit.Test;
